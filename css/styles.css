@@ -164,6 +164,9 @@ footer {
 section ul {
   margin: 0.75rem 0 0 1.25rem;
 }
+section ol {
+  margin: 0.75rem 0 0 1.25rem;
+}
 section li {
   margin: 0.35rem 0;
 }
